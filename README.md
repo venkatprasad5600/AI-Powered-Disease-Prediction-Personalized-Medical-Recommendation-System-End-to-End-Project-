@@ -57,12 +57,19 @@ Final Model Used: Linear SVC
 
 # 📂 Project Structure
 │── main.py
+
 │── svc.pkl
+
 │── templates/
+
 │── static/
+
 │── datasets/
+
 │── README.md
+
 ⚙️ How to Run
+
 pip install -r requirements.txt
 python main.py
 
@@ -72,12 +79,18 @@ http://127.0.0.1:5000/\
 
 # Sample Input
 itching, skin_rash, nodal_skin_eruptions
+
 Output:
+
 Fungal Infection
+
 Description
 
 4 Precautions
+
 Medications
+
 Diet Plan
+
 Workout Plan
 
